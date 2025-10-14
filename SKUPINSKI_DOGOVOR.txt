@@ -1,0 +1,8 @@
+Oseba A: Direktor podjetja
+A je odgovoren za strateško vodenje podjetja, sprejemanje ključnih odločitev ter nadzor nad poslovanjem in rastjo podjetja. Skrbi za razvoj poslovnih priložnosti in zastopa podjetje navzven.
+
+Oseba B: Vodja prodaje
+B je zadolžen za vodenje prodajne ekipe, iskanje novih strank, sklepanje poslov ter pripravo prodajnih strategij. Sodeluje pri pripravi ponudb in skrbi za zadovoljstvo strank.
+
+Oseba C: Vodja razvoja
+C vodi ekipo razvijalcev, načrtuje in koordinira razvoj produktov ali storitev podjetja. Skrbi za kakovostno izvedbo projektov, sledi tehnološkim trendom ter uvaja inovacije v poslovanje.
